@@ -1,0 +1,13 @@
+flask
+flask-cors
+flask-socketio
+eventlet
+torch
+numpy
+sounddevice
+scipy
+librosa
+transformers
+requests
+git+https://github.com/openai/whisper.git
+torchaudio
